@@ -1,0 +1,4 @@
+numpy
+pandas
+seaborn
+-e . #Triggers setup.py and creates package after setup.py is run
